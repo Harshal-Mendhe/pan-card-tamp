@@ -4,4 +4,7 @@ gunicorn
 opencv-python==4.4.0.46
 Pillow
 
+# tensorflow
+scikit-image
+
 
